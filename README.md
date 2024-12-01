@@ -13,8 +13,8 @@ The first Neolithic farmers arrived in the Western Mediterranean area from the E
 ## How to cite
 If you use this code or data in your research, please cite the original project as: <br>
 
-
-The repository contains: 
+## Overview of contents
+The repository contains: <br>
 
 1. A data folder with the data compiled for the analysis. 
 
