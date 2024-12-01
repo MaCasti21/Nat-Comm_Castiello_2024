@@ -1,10 +1,18 @@
 #  Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools
 
-This repository contains the data and code for this paperInstructions for running the R scripts for the manuscript  2024 Nat. Comm.
+This repository contains the data and code for the paper: <br>
+Castiello, M.E. et al. (2024) Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools 
 
-# Authors 
-https://orcid.org/0000-0002-0446-1301 Castiello, M.E. maria.castiello@unil.ch
+## Authors 
+[ORCID iD](https://orcid.org/0000-0002-0446-1301) Castiello, M.E. (maria.castiello@unil.ch) <br>
 Russo, E., Martinez-Grau, H., Jesus, A., Prats, G., Antolin, F.
+
+## Abstract
+The first Neolithic farmers arrived in the Western Mediterranean area from the East. They established settlements in coastal areas and over time migrated to new environments, adapting to changing ecological and climatic conditions. While farming practices and settlements in the Western Mediterranean differ greatly from those known in the Eastern Mediterranean and central Europe, the extent to which these differences are connected to the local environment and climate is unclear. Here, we tackle this question by compiling data and proxies at a superregional and multi-scale level, including archaeobotanical information, radiocarbon dates and paleoclimatic models, then applying a machine learning approach to investigate the impact of ecological and climatic constraints on the first Neolithic humans and crops. This approach facilitates calculating the pace of spread of farming in the Western Mediterranean area, modelling and estimating the potential areas suitable for settlement location, and discriminating distinct types of crop cultivation under changing climatic conditions that characterized the period 5900 – 2300 cal. BC. The results of this study shed light onto the past climate variability and its influence on human distribution in the Western Mediterranean area, but also discriminate sensitive parameters for successful agricultural practices.
+
+## How to cite
+If you use this code or data in your research, please cite the original project as: <br>
+
 
 The repository contains: 
 
