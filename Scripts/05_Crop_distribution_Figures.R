@@ -1,17 +1,3 @@
-###################################################################################
-#                               CASTIELLO ET AL.                                  #
-#                               ----------------                                  #
-#         GENERIC SRIPT TO EXTRACT PALEOCLIMATIC AND ENVIRONMENTAL DATA AT        #
-#               SITE LOCATION AND CREATE CROP DISTRIBUTION FIGURES                #
-#                                                                                 #
-#                             #  November 2024  #                                 #
-#                                                                                 #
-#                                                                                 #
-###################################################################################
-
-
-## LOAD LIBRARIES, SET DIRECTORY AND PREPARE LISTS ##
-#----------------------------------------------------
 
 # Load libraries
 library(raster)
