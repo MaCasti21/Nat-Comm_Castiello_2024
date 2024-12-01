@@ -1,17 +1,3 @@
-###################################################################################
-#                               CASTIELLO ET AL.                                  #
-#                               ----------------                                  #
-# GENERIC SRIPT TO EXTRACT PALEOCLIMATIC AND ENVIRONMENTAL DATA AT SITE LOCATION  #
-#    AND CREATE HISTOGRAM FIGURES, CREATE ALLUVIUM CHART OF SITE DISTRIBUTION     #
-#                                                                                 #
-#                             #  November 2024  #                                 #
-#                                                                                 #
-#                                                                                 #
-###################################################################################
-
-
-## READ LIBRARIES, SET DIRECTORY AND PREPARE LISTS ##
-#----------------------------------------------------
 
 # Load libraries
 library(raster)
