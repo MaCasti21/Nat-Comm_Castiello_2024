@@ -1,17 +1,3 @@
-###################################################################################
-#                               CASTIELLO ET AL.                                  #
-#                               ----------------                                  #
-#           GENERIC SRIPT TO CROP PALEOCLIMATIC DATA ON STUDY AREA                #
-#                         EXTENT (WITH & WITHOUT BUFFER)                          #
-#                                                                                 #
-#                             #  November 2024  #                                 #
-#                                                                                 #
-#                                                                                 #
-###################################################################################
-
-
-## READ LIBRARIES, DATA AND PREPARE FOLDERS ##
-#---------------------------------------------
 
 # Load libraries
 library(raster)
