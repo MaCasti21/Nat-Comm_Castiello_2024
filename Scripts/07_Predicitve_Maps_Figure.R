@@ -4,6 +4,7 @@ library(raster)
 library(terra)
 library(RColorBrewer) 
 library(tmap) 
+library(sf)
 
 # Set your working directory
 setwd("YOUR WORKING DIRECTORY")
@@ -25,8 +26,7 @@ ME_tiff_maps <- brick(ME_tiff_maps)
 
 
 # Load the coast line shapefile
-coast_line <- vect("./data/Coast_Line/Europe_coastline_poly.shp")
-coast_line <- sf::st_as_sf(coast_line)
+coast_line <- st_read("./data/Coast_Line/Coast_Line.shp")
 
 # Load Hillshade and DEM raster
 hillshade <- raster("./data/Hillshade/hillshade.tif")
