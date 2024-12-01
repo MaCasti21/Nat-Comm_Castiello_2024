@@ -1,17 +1,4 @@
-###################################################################################
-#                               CASTIELLO ET AL.                                  #
-#                               ----------------                                  #
-#           GENERIC SRIPT TO PERFORM SPEARMAN CORRELATION TEST ON                 #
-#          PALEOCLIMATIC AND ENVIRONMENTAL DATA AND CREATE FIGURES                #
-#                                                                                 #
-#                             #  November 2024  #                                 #
-#                                                                                 #
-#                                                                                 #
-###################################################################################
 
-
-## READ LIBRARIES AND PREPARE FOLDER & FILES ##
-#----------------------------------------------
 library(raster)
 library(corrplot)
 library(dendextend)
