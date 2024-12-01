@@ -12,6 +12,7 @@ The first Neolithic farmers arrived in the Western Mediterranean area from the E
 
 ## How to cite
 If you use this code or data in your research, please cite the original project as: <br>
+Castiello, M.E. et al. (2024) Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools. Source data and code (v.1.0). Zenodo. [![DOI](https://zenodo.org/badge/896797062.svg)](https://doi.org/10.5281/zenodo.14253277)
 
 ## Overview of contents
 The repository contains: <br>
