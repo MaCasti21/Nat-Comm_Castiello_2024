@@ -1,16 +1,3 @@
-###################################################################################
-#                               CASTIELLO ET AL.                                  #
-#                               ----------------                                  #
-#      GENERIC SRIPT TO CREATE PALEOCLIMATIC VARIABLE EVOLUTION PLOTS             #
-#                                                                                 #
-#                             #  November 2024  #                                 #
-#                                                                                 #
-#                                                                                 #
-###################################################################################
-
-
-## READ LIBRARIES, DATA AND SET DIRECTORY ##
-#-------------------------------------------
 
 # Load libraries
 library(raster)
