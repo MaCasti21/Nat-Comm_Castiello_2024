@@ -1,6 +1,4 @@
-# Nat-Comm_Castiello_2024
-
-"Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools"
+# This repository contains the data and code for the paper "Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools"
 
 Instructions for running the R scripts for the manuscript "Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools" Castiello, M.E., Russo, E., Martinez-Grau, H., Jesus, A., Prats, G., Antolin, F. 2024 Nat. Comm.
 
