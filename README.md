@@ -1,7 +1,7 @@
 #  Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools
 
 This repository contains the data and code for the paper: <br>
-Castiello, M.E. et al. (2025) Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools. Nature Comm. 16 [![DOI](https://doi.org/10.1038/s41467-024-55541-y)](https://doi.org/10.1038/s41467-024-55541-y)
+Castiello, M.E. et al. (2025) Understanding the spread of agriculture in the Western Mediterranean (6th-3rd millennia BC) with Machine Learning tools. Nat.Commun.16 [![DOI](https://doi.org/10.1038/s41467-024-55541-y)]
 
 ## Authors 
 [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0446-1301) Castiello, M.E. (mariaelena.castiello@unil.ch) <br>
